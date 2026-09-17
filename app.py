@@ -30,7 +30,7 @@ def status():
 
 @app.route("/czesc/<imie>")
 def czesc(imie):
-    return f"Cześć, <imie>!"
+    return f"Cześć, {imie}!"
 
 @app.route("/uzytkownik/<imie>/<nazwisko>")
 def uzytkownik(imie, nazwisko):
