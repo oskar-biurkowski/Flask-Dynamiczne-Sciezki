@@ -17,3 +17,7 @@ git commit -m "Komentarz"
 git branch -M main
 git remote add origin https://github.com/oskar-biurkowski/repozytorium
 git push -u origin main
+
+## Zadanie 6:
+Po literówce, wyskoczył błąd SyntaxError: invalid syntax.
+Pokazane jest na której linijce oraz gdzie dokładnie znajduję się błąd.
